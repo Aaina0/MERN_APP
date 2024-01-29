@@ -1,0 +1,9 @@
+# .gitignore for Node.js projects
+
+# Dependency directories
+node_modules/
+
+# Optional: Logs and artifacts
+logs/
+*.log
+*.lock
